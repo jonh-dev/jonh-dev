@@ -3,7 +3,7 @@
 - 🔭 A Procura do primeiro emprego em Front-End
 - 🌱 Estudando JavaScript
 - 💬 Bora fala sobre programação e games
-- 😄 Pronouns: ele/dele
+- 😄 De bem com a vida!
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/jonh-dev">

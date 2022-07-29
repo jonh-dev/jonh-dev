@@ -1,7 +1,7 @@
 ### Bem vindo(a). Me chamo João, vulgo Jonh. 👋
 
 - 🔭 A Procura do primeiro emprego em Front-End
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Java e Spring Boot
 - 💬 Bora fala sobre programação e games
 - 😄 De bem com a vida!
 

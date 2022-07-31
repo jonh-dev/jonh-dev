@@ -1,6 +1,6 @@
 ### Bem vindo(a). Me chamo João, vulgo Jonh. 👋
 
-- 🔭 A Procura do primeiro emprego como Desenvolvedor Java
+- 🔭 A Procura do primeiro emprego como Desenvolvedor FullStack
 - 🌱 Estudando Java e Spring Boot
 - 💬 Bora fala sobre programação e games
 - 😄 De bem com a vida!

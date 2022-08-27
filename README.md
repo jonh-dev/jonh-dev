@@ -22,7 +22,9 @@
   
   ##
   
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jonh-dev}/count.svg" /></p> 
+  <div align="center">
+<br><p align="centre"><b>Contador de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jonh-dev}/count.svg" /></p> 
 <br></div>
   
   ##

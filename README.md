@@ -1,14 +1,18 @@
-### Bem vindo(a). Me chamo João, vulgo Jonh. 👋
-
-- 🔭 A Procura do primeiro emprego como Desenvolvedor FullStack
-- 🌱 Estudando Java e Spring Boot
-- 💬 Bora fala sobre programação e games
-- 😄 De bem com a vida!
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=22779C&center=true&vCenter=true&width=800&lines=Bem+vindo(a).+Me+chamo+Jo%C3%A3o%2C+vulgo+Jonh.+" alt="Typing SVG" /></a>
+</div>
+<div>
+<br>
+ <p>&nbsp&nbsp&nbsp&nbsp - 🔭 A Procura do primeiro emprego como Desenvolvedor JAVA JR <br>
+   &nbsp&nbsp&nbsp&nbsp - 🌱 Estudando Java e Spring Boot <br>
+   &nbsp&nbsp&nbsp&nbsp - 💬 Bora fala sobre programação e games <br>
+   &nbsp&nbsp&nbsp&nbsp - 😄 De bem com a vida! </p>
+<br>
+</div>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/jonh-dev">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=jonh-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonh-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width="55.5%" src="https://github-readme-stats.vercel.app/api?username=jonh-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonh-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">

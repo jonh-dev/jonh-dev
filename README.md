@@ -22,6 +22,11 @@
   
   ##
   
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jonh-dev}/count.svg" /></p> 
+<br></div>
+  
+  ##
+  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCV3Nucywtqi6iSM5PsX9SQA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jonh_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

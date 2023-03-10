@@ -3,8 +3,8 @@
 </div>
 <div>
 <br>
- <p>&nbsp&nbsp&nbsp&nbsp - 🔭 Atualmente trabalhando com Java e Spring<br>
-   &nbsp&nbsp&nbsp&nbsp - 🌱 Estudando Java e Spring Boot <br>
+ <p>&nbsp&nbsp&nbsp&nbsp - 🔭 Atualmente trabalhando com Java(Spring boot), NodeJs(GoogleCloud)<br>
+   &nbsp&nbsp&nbsp&nbsp - 🌱 Estudando Microservices <br>
    &nbsp&nbsp&nbsp&nbsp - 💬 Bora fala sobre programação e games <br>
    &nbsp&nbsp&nbsp&nbsp - 😄 De bem com a vida! </p>
 <br>

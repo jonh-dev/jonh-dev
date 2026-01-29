@@ -64,11 +64,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="divider" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer"/>
+</div>
+
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=Lets%20Code%20The%20Future&fontSize=20&fontAlign=50&fontAlignY=40"/>
-  <br>
-  
   <!-- WhatsApp (Logo Neon) -->
   <a href="https://api.whatsapp.com/send?phone=5541995096991" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Talk_To_Me-black?style=for-the-badge&logo=whatsapp&logoColor=00F0FF" target="_blank">

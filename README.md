@@ -1,15 +1,20 @@
 <!-- HEADER COM EFEITO GLITCH/TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World%22)%3B;Desenvolvedor+Java+%7C+Spring+Boot;Building+Scalable+Backends;>+Ready+to+Code..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+vulgo+Jonh;Engenheiro+de+Software+%7C+Java+%26+Go;Construindo+o+futuro+do+Backend...;Status%3A+Ready+to+Code!" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- INTRODUÇÃO VISUAL -->
+<!-- BANNER PRINCIPAL (MARIO ROOM) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91ZGI4bXF6bXF6bXF6bXF6bXF6bXF6bXF6bXF6bXF6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnyWdJtW8JqQvMeJ4V/giphy.gif" width="100px" alt="Code Animation" />
+  <img src="https://github.com/user-attachments/assets/733d3130-1daf-4e79-8a61-2438318939c1" width="100%" alt="Code Animation" />
+</div> 
+
+<!-- STATUS TEXT -->
+<div align="center">
+  <br>
   <p style="font-family: 'Courier New', monospace; font-size: 16px;">
     🚀 <b>Mission Control:</b> Java (Spring Boot) & NodeJs (GCP)<br>
     📡 <b>Current Target:</b> Domaining Go (Golang)<br>
@@ -17,68 +22,60 @@
   </p>
 </div>
 
-<br>
+<!-- DIVISOR NEON 1 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="divider" />
+</div>
 
-<!-- TECH STACK (MANTENDO AS LOGOS ORIGINAIS + SKILLICONS CLEAN) -->
+<!-- TECH STACK ORGANIZADA -->
 <div align="center">
   <h3>🛠️ Arsenal Tecnológico</h3>
-  <!-- Seus ícones originais, organizados e centralizados -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-    <img alt="Java" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-    <img alt="Spring" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    <img alt="Go" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-    <img alt="NodeJs" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img alt="GCP" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-    <img alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  
+  <!-- Linha 1: Linguagens Core -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
+    <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <img alt="Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+    <img alt="Go" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
+    <img alt="NodeJs" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
   </div>
-  <br>
-  <!-- Barra secundária moderna -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,ts,js,html,css,git,idea&theme=dark" />
-  </a>
+
+  <!-- Linha 2: Ferramentas & Cloud -->
+  <div style="margin-top: 10px;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=gcp,docker,mysql,firebase,ts,js,html,css,git,idea&theme=dark" />
+    </a>
+  </div>
 </div>
 
-<br>
-
-<!-- ESTATÍSTICAS ISOMÉTRICAS (O GRANDE DIFERENCIAL) -->
-<!-- Nota: Para isso funcionar 100%, você precisa rodar a Action descrita abaixo. 
-     Enquanto não roda, usei uma versão pública de exemplo. Substitua pelo seu link após configurar. -->
+<!-- DIVISOR NEON 2 -->
 <div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jonh-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonh-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="divider" />
 </div>
 
-<!-- CONTRIBUIÇÃO 3D (Substitua 'yoshi389111' pelo seu usuário após configurar a Action) -->
+<!-- ESTATÍSTICAS & ANALYTICS -->
 <div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jonh-dev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</div>
+  <h3>📊 Data Stream & Analytics</h3>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonh-dev&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
-<br>
-
-<!-- JOGO INTERATIVO NO README (CHESS) -->
-<!-- Isso gera engajamento. As pessoas clicam para jogar! -->
+<!-- DIVISOR NEON 3 -->
 <div align="center">
-  <h3>♟️ Desafie-me no Xadrez!</h3>
-  <p>Clique em uma posição válida para fazer sua jogada:</p>
-  <a href="https://github.com/jonh-dev/jonh-dev/issues/new?body=chess%20move%20e4">
-    <img src="https://github-readme-chess.vercel.app/api/board?username=jonh-dev&theme=ocean" alt="Chess Board" />
-  </a>
-  <br>
-  <sub>*O tabuleiro atualiza quando eu aceito a issue!*</sub>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="divider" />
 </div>
 
-<br>
-
-<!-- FOOTER LIMPO E FUTURISTA -->
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=Lets%20Code%20The%20Future&fontSize=20&fontAlign=50&fontAlignY=40"/>
   <br>
-  <a href="mailto:jonh.dev.br@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" target="_blank">
+  
+  <!-- WhatsApp (Logo Neon) -->
+  <a href="https://api.whatsapp.com/send?phone=5541995096991" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Talk_To_Me-black?style=for-the-badge&logo=whatsapp&logoColor=00F0FF" target="_blank">
   </a>
+  
+  <!-- LinkedIn (Logo BRANCO para corrigir o bug de visibilidade) -->
   <a href="https://www.linkedin.com/in/joaozanardi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
